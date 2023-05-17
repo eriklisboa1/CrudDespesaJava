@@ -3,6 +3,8 @@
 > Crud com conexão com banco de dados postgresSQL
 > 
 > Para voce fazer a conexão com o seu banco de dados vá em:
+>
+>CrudDespesaJava/src/main/java/br/com/crudjava/infra/
 > 
 > PACKAGE INFRA:-> ConnectionFactory
 > 
